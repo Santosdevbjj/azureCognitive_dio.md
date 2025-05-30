@@ -1,4 +1,4 @@
-## Como Utilizar o AI Search para indexação e consulta de Dados? 
+## Como Utilizar o AI Search para indexação e consulta de Dados
 
 
 ![Screenshot_20250530-175938](https://github.com/user-attachments/assets/8ba713e6-0055-42b7-adcd-0dfe4bc6657c)
