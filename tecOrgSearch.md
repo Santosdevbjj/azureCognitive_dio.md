@@ -108,7 +108,9 @@ Esse pipeline integrado possibilita a transformação de grandes volumes de docu
 
 ### Conclusão
 
-Ao combinar a ingestão e o pré-processamento de dados com técnicas avançadas de indexação, utilizando ferramentas de inteligência artificial, é possível transformar um vasto volume de documentos não estruturados em um sistema de busca eficiente e inteligente. Essa abordagem não só reduz o trabalho manual e erros humanos, mas também permite a extração de insights e a tomada de decisões baseada em dados confiáveis. 
+Ao combinar a ingestão e o pré-processamento de dados com técnicas avançadas de indexação, utilizando ferramentas de inteligência artificial, é possível transformar um vasto volume de documentos não estruturados em um sistema de busca eficiente e inteligente.
+
+Essa abordagem não só reduz o trabalho manual e erros humanos, mas também permite a extração de insights e a tomada de decisões baseada em dados confiáveis. 
 
 Casos práticos incluem a automatização de entrada de faturas, análise semântica de contratos jurídicos e a busca inteligente em registros médicos.
 
