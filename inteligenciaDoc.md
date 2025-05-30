@@ -1,6 +1,8 @@
 ## Inteligência de Documentos.
 
 
+![Screenshot_20250530-144236](https://github.com/user-attachments/assets/7fd76dee-6f59-4bb1-8754-28ffc3b40b5f)
+
 
 A **Inteligência de Documentos de IA do Azure** é um serviço avançado que utiliza métodos de aprendizado de máquina para transformar documentos de diferentes formatos (como PDFs, imagens e formulários) em dados estruturados e prontos para uso em processos automatizados e análises de negócios.
 
