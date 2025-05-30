@@ -41,6 +41,9 @@ Utilizar o GitHub como ferramenta para compartilhamento de documentação técni
 **azureCognitiveSearch.md:** - O que é Azure Cognitive Search  
 
 
+**azureCognitiveServices.md:** - O que é Azure Cognitive Services
+
+
 **configAzureCogSearch.md:** - Como Configurar o Azure Cognitive Search.    
 
 
